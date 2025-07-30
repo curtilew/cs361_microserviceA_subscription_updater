@@ -14,6 +14,12 @@ This endpoint is used to check for price updates on one or more subscriptions.
 
 --------------------------------------------------------------
 
+UML sequence diagram
+
+![Alt text](./images/Untitled.jpg)
+
+--------------------------------------------------------------
+
 Request Format
 
 The client must send an HTTP POST request to the `/check-prices` endpoint. The body of the request must be a JSON object containing a single key, `subscriptions`, which holds an array of subscription objects.
@@ -68,10 +74,6 @@ Example Response (No Changes)
   "changed_subscriptions": []
 }
 
---------------------------------------------------------------
 
-UML sequence diagram
-
-![Alt text](./images/Untitled.jpg)
 
 

@@ -71,7 +71,7 @@ Example Response (No Changes)
 
 UML sequence diagram
 
-![UML Diagram](images/Untitled.jpeg)
+![UML Diagram](images/Untitled.jpg)
 
 
 

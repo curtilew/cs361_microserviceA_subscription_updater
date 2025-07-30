@@ -68,6 +68,7 @@ Example Response (No Changes)
   "changed_subscriptions": []
 }
 
+--------------------------------------------------------------
 
 UML sequence diagram
 

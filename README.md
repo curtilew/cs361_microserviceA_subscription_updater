@@ -71,8 +71,7 @@ Example Response (No Changes)
 
 UML sequence diagram
 
-![Untitled](https://github.com/user-attachments/assets/eb6e8438-a2b5-4579-9592-4d709acb9b42)
-
+![UML Diagram](images/Untitled.jpeg)
 
 
 

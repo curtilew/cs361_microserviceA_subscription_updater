@@ -67,3 +67,8 @@ Example Response (No Changes)
 {
   "changed_subscriptions": []
 }
+
+
+UML sequence diagram
+<img width="466" height="355" alt="image" src="https://github.com/user-attachments/assets/5ca6b649-9c2b-4c9c-ae1d-a38eba10cbcf" />
+

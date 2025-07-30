@@ -71,7 +71,6 @@ Example Response (No Changes)
 
 UML sequence diagram
 
-https://github.com/curtilew/cs361_microserviceA_subscription_updater/blob/main/images/Untitled.jpg?raw=true
-
+![Alt text](./images/Untitled.jpg)
 
 
